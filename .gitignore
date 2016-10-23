@@ -1,0 +1,13 @@
+.DS_Store
+vendor/
+tests/
+zip/
+resized-images
+.idea/
+Homesteadaliases.md
+Imp Chat
+LICENSE
+phpunit.xml
+provides.json
+README.md
+.travis.yml

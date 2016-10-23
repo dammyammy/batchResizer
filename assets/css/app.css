@@ -1,0 +1,27 @@
+.container { margin:5px}
+.highlightOver { background-color: blue; borer-radius: 5px; border-color: blue; border-width: thick}
+
+.row{ margin:10px}
+input[type="file"] {  width: 585px; height: 334px; margin-top:-341px; background:transparent; margin-left: 8px;}
+#fileHolder{width: 601px; height: 321px; overflow:hidden;}
+#fileOutput{padding-top: 18px;}
+.pad100{padding-top: 100px;}
+.pad20{padding-top: 20px;}
+.folder-icon{  background-image:url('../img/drop.png'); width:601px;height:321px;}
+ul { list-style-type:none}
+
+li.file{
+    background-image: url(../img/file-16.png);
+    background-repeat: no-repeat;
+    padding-left: 1.6em;
+    font-weight: normal;
+    text-decoration: line-through;
+}
+
+li.file.type-png{ background-image:url(../img/png-16.png); font-weight: bold; text-decoration: none;}
+li.file.type-jpg { background-image: url(../img/jpg-16.png); font-weight: bold; text-decoration: none;}
+li.file.type-jpeg { background-image: url(../img/jpg-16.png); font-weight: bold; text-decoration: none;}
+
+.well { margin-left: 20px; background-color: #fcfcfc; }
+
+.text-black{color: #000}
